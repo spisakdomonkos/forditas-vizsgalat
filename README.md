@@ -51,7 +51,9 @@ A program feladata:
 - Az eredmény visszaadása.
 - Az eredmény megjelenítése.
 
-A továbbiakban ezt a rövid Python-programot használom arra, hogy szemléltessem a forráskód fordításának egyes lépéseit.
-
-
-6.
+Python (CPython)
+Python-forráskód (.py):
+Lexikai és szintaktikai feldolgozás
+AST (absztrakt szintaxisfa)
+Bájtkód előállítása
+Python virtuális gép végrehajtja a bájtkódot
